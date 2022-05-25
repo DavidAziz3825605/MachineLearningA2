@@ -44,7 +44,20 @@
     python cnn.py eval
 
     ```
+    
+    
+  Extra  Added  CNN Model: VGG16
+  
+8. Train the CNN2 model
+    ```sh
+    python cnn2.py train
 
+    ```
+9. Evaluate the CNN2 model
+    ```sh
+    python cnn2.py eval
+
+    ```
 
 
 

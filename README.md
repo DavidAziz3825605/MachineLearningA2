@@ -16,7 +16,7 @@
 
 3. Install requirements
    ```sh
-   pip install requirements.txt
+   pip install -r requirements.txt
 
    ```
 4. Run the data pre-processing script
